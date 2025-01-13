@@ -1,0 +1,5 @@
+title1 = input("Введите заголовок заметки: ")
+title2 = input("Введите заголовок заметки: ")
+title3 = input("Введите заголовок заметки: ")
+info = [title1, title2, title3]
+print(info)
