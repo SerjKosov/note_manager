@@ -1,7 +1,7 @@
 username =' Сергей '
-title ='заголовок'
-content ='описание'
-status ='статус'
+title ='домашнее задание'
+content ='выполнить задание'
+status ='в процессе'
 created_date ='10.01.25'
 issue_date ='12.01.25'
 print("имя пользователя:", username)
